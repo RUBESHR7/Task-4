@@ -1,0 +1,9 @@
+a=4
+b=7
+c=-1
+print("a & b | c = ",a&b|c)
+print("a | b ^ c = ",a|b^c)
+print("~a,~b,~c =",~a,~b,~c)
+print("a & b|c ^ a & b =",a&b|c^a&b)
+print("a >> 2 and b << 2 = ",a>>2 and b<<2)
+print("c >> 5 and a << 3 and b >> 2 =",c >> 5 and a << 3 and b >> 2)
